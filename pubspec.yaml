@@ -1,0 +1,48 @@
+name: orarul_grupei
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/orarul_grupei/assets/images/background.svg
+    - packages/orarul_grupei/assets/images/path614.svg
+    - packages/orarul_grupei/assets/images/path797.svg
+    - packages/orarul_grupei/assets/images/baselinesearch24px.svg
+    - packages/orarul_grupei/assets/images/outlinenotifications24px.svg
+    - packages/orarul_grupei/assets/images/outlinemorevert24px.svg
+    - packages/orarul_grupei/assets/images/rectangle1561.svg
+    - packages/orarul_grupei/assets/images/rectangle1562.svg
+    - packages/orarul_grupei/assets/images/path299.svg
+    - packages/orarul_grupei/assets/images/rectangle1563.svg
+    - packages/orarul_grupei/assets/images/rectangle1564.svg
+    - packages/orarul_grupei/assets/images/bar.svg
+    - packages/orarul_grupei/assets/images/baselinenotes24px.svg
+    - packages/orarul_grupei/assets/images/path20448.png
+    - packages/orarul_grupei/assets/images/path20449.png
+    - packages/orarul_grupei/assets/images/path20450.png
+    - packages/orarul_grupei/assets/images/path20451.png
+    - packages/orarul_grupei/assets/images/path20452.png
+    - packages/orarul_grupei/assets/images/path20453.png
+    - packages/orarul_grupei/assets/images/path20454.png
+    - packages/orarul_grupei/assets/images/path20455.png
+    - packages/orarul_grupei/assets/images/path20456.png
+    - packages/orarul_grupei/assets/images/path20457.png
+    - packages/orarul_grupei/assets/images/path20458.png
+    - packages/orarul_grupei/assets/images/path20459.png
+    - packages/orarul_grupei/assets/images/group1006.svg
+    - packages/orarul_grupei/assets/images/path20465.png
+    - packages/orarul_grupei/assets/images/path20466.png
+    - packages/orarul_grupei/assets/images/path20467.png
